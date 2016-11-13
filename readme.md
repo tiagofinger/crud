@@ -1,3 +1,8 @@
+# Install CRUD
+1 - Create database. Execute SQL: CREATE SCHEMA `crud` DEFAULT CHARACTER SET utf8 ;
+2 - Access root folder of project CRUD and execute php artisan migrate
+3 - Access url http://localhost/crud/public
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
